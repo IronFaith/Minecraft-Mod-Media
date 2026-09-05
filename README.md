@@ -16,4 +16,5 @@ source repositories.
 mods/
   <mod-name>/
     images/
+    videos/
 ```
